@@ -18,8 +18,21 @@ The frontend will run on http://localhost:5173
 In the backend folder 
 
 MONGODB_URI=
+
 JWT_SECRET=
+
 PORT=5000
+
 ML_SERVICE_URL=
 
+To connect to the data base which is mongo db atlas , setting up the token key JWT_SECRET
+
+
+In the mlService folder 
+
+
+GEMINI_API_KEY=
+
+
+to connect to the gemini key
 
