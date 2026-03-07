@@ -15,3 +15,11 @@ The frontend will run on http://localhost:5173
 - MongoDB Atlas database
 - JWT-based authentication
 
+In the backend folder 
+
+MONGODB_URI=
+JWT_SECRET=
+PORT=5000
+ML_SERVICE_URL=
+
+
