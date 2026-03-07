@@ -31,6 +31,13 @@ To connect to the data base which is mongo db atlas , setting up the token key J
 In the mlService folder 
 
 
+
+
+
+The render link = https://fake-news-detector-site.onrender.com
+
+
+
 GEMINI_API_KEY=
 
 
